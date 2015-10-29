@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Raimundo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-75c1640f3d5568b5d35c4631096fb0d8ed21f400.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-4ae1c5d7d3ae90e55a264bc8c4a83550484f9697.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-9914adf1472bbbfba28cdd50a0c9136f4665f1f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-ec42a2bbfb7f2de902506cf957f7f490f4ecf6a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-04b62f02d1ad2abb7fc66dbd297cb57c07aaf168.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f5d2e952bebaaaa97914bf9a57d9ab50eac35cc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\glide-3.6.0-76ba27c9dcd3328696a89d0284ed85ab44b2846b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-adbac92167ea361b7bc765266deb3e23da5616f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-d4c2bfa14c870164a0d072a6b39e27cf717dd394.jar" />
+    </item>
+    <item
+        jar="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\exploded-aar\com.nispok\snackbar\2.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d0db114dc90b3e192ba48d22421a9c47cfc01f00">
+        <dex dex="C:\Users\Raimundo\AndroidStudioProjects\JuegoMaterial\app\build\intermediates\pre-dexed\debug\classes-f64e9807927874e43bfabab6b361bef3bbe10da1.jar" />
+    </item>
+
+</items>
